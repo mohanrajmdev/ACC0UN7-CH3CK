@@ -54,10 +54,11 @@ def main(email,url):
 
     for url in url_list:
         if(url.lower() in ['ebay','espn','pinterest','quora','spotify']):
+             check_account_status = check(email,url.lower())
             # Add data to the table
-            if check(email,url.lower()) == True :
+            if check_account_status == True :
                 table.add_row([url , "Yes"])
-            elif check(email,url.lower()) == False :
+            elif check_account_status == False :
                 table.add_row([url , "No"])
             else:
                 table.add_row([url, "Error"])
