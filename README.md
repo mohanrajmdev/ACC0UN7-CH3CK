@@ -10,10 +10,8 @@ ACC0UN7-CH3CK Tool is an account Knocking tool that uses Selenium to check wheth
 - [Advantage](#Advantage_of_using_this_Tool)
 - [Prerequisites](#Requirements)
 - [Installation](#Setup)
-- [Results](#results)
-- [Script-Details](#script-details)
-- [Disclaimer](#disclaimer)
-
+- [Usage](#Usage)
+- [Results](#Result)
 
 ## Advantage_of_using_this_Tool
 
