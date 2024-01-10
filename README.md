@@ -47,3 +47,6 @@ $ python3 main.py --email example@gmail.com --url ebay,spotify
 
 ## Result
 
+![tool info](images/account-help.png)
+- Sample Output
+![output](images/ACC0UN7-CH3CK-T00L.png)
